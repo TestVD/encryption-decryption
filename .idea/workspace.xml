@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38519b91-9cdc-4977-a471-b254e9a2801d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Encryption-Decryption/task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Encryption-Decryption/task/build/" />
+    <ignored path="$PROJECT_DIR$/Encryption-Decryption/task/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hello!/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hello!/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hello!/out/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Cats are robots/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Cats are robots/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Cats are robots/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hello, Java/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hello, Java/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hello, Java/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The Hello World program/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The Hello World program/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The Hello World program/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/From 0 to 4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/From 0 to 4/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/From 0 to 4/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/We need to learn Java/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/We need to learn Java/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/We need to learn Java/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Printing strings in the same order/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Printing strings in the same order/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Printing strings in the same order/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hiring a chef/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hiring a chef/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Hiring a chef/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Guest list of a hotel/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Guest list of a hotel/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Guest list of a hotel/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The number of tens/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The number of tens/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The number of tens/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Good rest on vacation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Good rest on vacation/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Good rest on vacation/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Next even number/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Next even number/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Next even number/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Snail/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Snail/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Snail/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Exactly one parameter is positive/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Exactly one parameter is positive/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Exactly one parameter is positive/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Extracting a substring/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Extracting a substring/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Extracting a substring/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Healthy sleep/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Healthy sleep/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Healthy sleep/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Chocolate/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Chocolate/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Chocolate/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Leap year/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Leap year/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Leap year/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Maximum element divisible by four/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Maximum element divisible by four/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Maximum element divisible by four/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The product of numbers from a to b/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The product of numbers from a to b/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The product of numbers from a to b/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The sum of elements/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The sum of elements/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The sum of elements/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Collatz conjecture/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Collatz conjecture/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Collatz conjecture/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Profit/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Profit/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Profit/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Bus tour/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Bus tour/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Bus tour/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The (un)-ordered sequence/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The (un)-ordered sequence/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The (un)-ordered sequence/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Double characters/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Double characters/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Double characters/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Convert a date/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Convert a date/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Convert a date/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Generating passwords/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Generating passwords/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Generating passwords/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Create a euphonious word/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Create a euphonious word/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Create a euphonious word/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Parse url/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Parse url/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Parse url/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/First digit/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/First digit/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/First digit/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Vowel or not/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Vowel or not/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Vowel or not/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Adding values/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Adding values/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Adding values/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Get first and last elements/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Get first and last elements/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Get first and last elements/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Application as a class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Application as a class/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Application as a class/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Boys in a sport class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Boys in a sport class/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Boys in a sport class/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The index of an argument/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The index of an argument/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The index of an argument/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Advanced calculator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Advanced calculator/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Advanced calculator/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Reverse input text/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Reverse input text/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Reverse input text/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Count words/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Count words/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Count words/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Binary search/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Binary search/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Binary search/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account and its owner/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account and its owner/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account and its owner/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Print strings in the reverse order/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Print strings in the reverse order/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Print strings in the reverse order/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Army/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Army/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Army/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Preparing full name/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Preparing full name/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Preparing full name/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Complex/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Complex/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Complex/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Getting the fullname/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Getting the fullname/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Getting the fullname/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Catching some exceptions/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Catching some exceptions/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Catching some exceptions/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Converting and multiplying/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Converting and multiplying/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Converting and multiplying/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Bank account/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Bank account/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Bank account/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Employees/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Employees/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Employees/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Publications/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Publications/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Publications/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Find mistake/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Find mistake/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Find mistake/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Users and WebSites/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Users and WebSites/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Users and WebSites/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/IntBinaryOperation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/IntBinaryOperation/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/IntBinaryOperation/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Shape hierarchy/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Shape hierarchy/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Shape hierarchy/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Mutable geometric shapes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Mutable geometric shapes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Mutable geometric shapes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account Service/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account Service/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Account Service/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Max and Min/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Max and Min/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Max and Min/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Pick your team/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Pick your team/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Pick your team/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Motor static factory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Motor static factory/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Motor static factory/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Clock factory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Clock factory/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Clock factory/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Static factory methods for Time/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Static factory methods for Time/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Static factory methods for Time/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Laptop store/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Laptop store/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Laptop store/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Robot/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Robot/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Robot/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Motors/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Motors/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Motors/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Template Method/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Template Method/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Template Method/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Template Method (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Template Method (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Template Method (1)/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="120">
+                  <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncoderDecoder.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="195">
+                  <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="32" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/UnicodeAlg.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="180">
+                  <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingAlg.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="135">
+                  <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Algorithm.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="376">
+                  <caret line="40" selection-start-line="40" selection-end-line="40" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Problems/Double characters/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Generating passwords/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Parse url/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Create a euphonious word/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Vowel or not/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Adding values/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Get first and last elements/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Application as a class/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Boys in a sport class/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/The index of an argument/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Advanced calculator/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Reverse input text/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Count words/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Convert a date/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Binary search/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Account and its owner/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Print strings in the reverse order/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Army/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Preparing full name/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Complex/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Account/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Getting the fullname/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Catching some exceptions/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Converting and multiplying/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Bank account/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Employees/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Publications/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Find mistake/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Users and WebSites/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/IntBinaryOperation/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Shape hierarchy/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Account Service/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Max and Min/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Pick your team/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Motor static factory/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Clock factory/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Static factory methods for Time/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Laptop store/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Robot/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Motors/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Template Method/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Template Method (1)/src/Main.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Encription.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/UnicodeAlg.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncriptionDecriptionConfig.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncoderDecoder.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Algorithm.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingAlg.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Encryption-Decryption" type="a264ea2a:RootNode" />
+              <item name="Encryption-Decryption" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="a264ea2a:RootNode" />
+              <item name="Encryption-Decryption" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Convert a date" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Convert a date" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Reverse input text" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encryption-Decryption" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Reverse input text" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591010497029" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45747125" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Pick_your_team_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Clock_factory_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Static_factory_methods_for_Time_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encryptdecrypt.Main" />
+      <module name="Encryption-Decryption-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encryptdecrypt.EncriptionDecriptionConfig" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RobotDemo" />
+      <module name="Problems-Robot_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.RobotDemo" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RobotDemo" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38519b91-9cdc-4977-a471-b254e9a2801d" name="Default Changelist" comment="" />
+      <created>1586875909152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586875909152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 06m 22s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 09m 08s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 09m 25s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 11m 17s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 17m 16s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 17m 57s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 18m 37s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 19m 02s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 21m 05s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2020.05.31 at 22h 22m 44s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.4163569" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.26889715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32961586" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.49928468" weight="0.28004956" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.13590844" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.09155937" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Catching some exceptions/src/Main.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Find mistake/src/Main.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Find mistake/src/Main.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Pick your team/src/Main.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="String s = (values[1].replace(&quot;,&quot;,&quot;&quot;); " language="JAVA" />
+        <watch expression="Long population = Long.parseLong(values[1].replace(&quot;,&quot;,&quot;&quot;));" language="JAVA" />
+        <watch expression="String.valueOf(messageArray)" language="JAVA" />
+        <watch expression="messageArray[0]" language="JAVA" />
+        <watch expression=" 'a' + newAlphabetPosition" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>'a' + newAlphabetPosition</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char) 'a' + newAlphabetPosition</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char) newAlphabetPosition</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char) newAlphabetPosition =</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>messageArray[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.valueOf(messageArray)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Long population = Long.parseLong(values[1].replace(&quot;,&quot;,&quot;&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String s = (values[1].replace(&quot;,&quot;,&quot;&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>int population = Long.parseLong(values[1].replace(&quot;,&quot;,&quot;&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1704" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8057" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Convert a date/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Count words/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Binary search/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="105">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Account and its owner/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="135">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Reverse input text/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Print strings in the reverse order/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="195">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Army/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="135">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Preparing full name/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="58">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Complex/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="75">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Getting the fullname/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="384">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Catching some exceptions/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="72">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="90">
+              <caret line="6" column="39" selection-start-line="4" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Chocolate/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="75">
+              <caret line="5" column="34" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="5" selection-end-column="34" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/The product of numbers from a to b/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="4" lean-forward="true" selection-end-line="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/The sum of elements/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="180">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Converting and multiplying/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="210">
+              <caret line="19" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Bank account/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="300">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Employees/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="532">
+              <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#1034#1035#0" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1125#1126#0" expanded="true" />
+                <element signature="e#1173#1174#0" expanded="true" />
+                <element signature="e#1206#1207#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1279#1280#0" expanded="true" />
+                <element signature="e#1315#1316#0" expanded="true" />
+                <element signature="e#1662#1663#0" expanded="true" />
+                <element signature="e#1688#1689#0" expanded="true" />
+                <element signature="e#1790#1791#0" expanded="true" />
+                <element signature="e#1820#1821#0" expanded="true" />
+                <element signature="e#1866#1867#0" expanded="true" />
+                <element signature="e#1904#1905#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Publications/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="652">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Find mistake/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="150">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Users and WebSites/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="630">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/IntBinaryOperation/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="495">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Shape hierarchy/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="331">
+              <caret line="25" column="124" selection-start-line="25" selection-start-column="124" selection-end-line="25" selection-end-column="124" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Mutable geometric shapes/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="547">
+              <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Account/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="90">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Vowel or not/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Account Service/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-188">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="375">
+              <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Max and Min/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="246">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="181" column="14" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Pick your team/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="710">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#1424#1425#0" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Clock factory/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="270">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Static factory methods for Time/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-114">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Laptop store/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="615">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Robot/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="870">
+              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Motor static factory/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="135">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Motors/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="333">
+              <caret line="74" column="15" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="15" />
+              <folding>
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
+                <element signature="e#1188#1189#0" expanded="true" />
+                <element signature="e#1241#1242#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Template Method/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="165">
+              <caret line="11" column="18" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Template Method (1)/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="352">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#1055#1056#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncriptionDecriptionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="30">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Algorithm.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="376">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/UnicodeAlg.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="180">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingAlg.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="135">
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncoderDecoder.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="195">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="32" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45747125" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Problems-Generating_passwords</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45747125" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.cedarsoftware:json-io:4.10.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45747125" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
